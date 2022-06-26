@@ -185,7 +185,7 @@ body {
   color: #5b5b5b;
   font-size: 15pt;
   line-height: 1.85em;
-  font-family: "Sora", sans-serif;
+  font-family: "Playfair Display", serif;
   /* font-family: "Sora", sans-serif; */
   font-weight: 300;
 }
@@ -2270,7 +2270,7 @@ button.alt:hover,
   text-rendering: auto;
   line-height: 1;
   text-transform: none !important;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Playfair Display", serif;
   font-weight: 400;
 }
 
