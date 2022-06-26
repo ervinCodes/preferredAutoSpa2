@@ -2,6 +2,7 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Sora:wght@200&family=Tangerine:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Manrope&family=Sora:wght@200&family=Tangerine:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Manrope&family=Playfair+Display&family=Sora:wght@200&family=Tangerine:wght@700&display=swap");
 
 /*
 	Helios by HTML5 UP
@@ -184,7 +185,7 @@ body {
   color: #5b5b5b;
   font-size: 15pt;
   line-height: 1.85em;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Sora", sans-serif;
   /* font-family: "Sora", sans-serif; */
   font-weight: 300;
 }
@@ -207,7 +208,7 @@ textarea,
 select {
   font-size: 15pt;
   line-height: 1.85em;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Sora", sans-serif;
   font-weight: 300;
 }
 
