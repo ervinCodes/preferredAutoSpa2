@@ -1881,6 +1881,7 @@ article:last-child {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 section.special > header,
