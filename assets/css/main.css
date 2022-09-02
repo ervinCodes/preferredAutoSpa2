@@ -144,6 +144,10 @@ body {
   -webkit-text-size-adjust: none;
 }
 
+.italics {
+  font-style: italic;
+}
+
 mark {
   background-color: transparent;
   color: inherit;
