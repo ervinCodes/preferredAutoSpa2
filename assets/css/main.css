@@ -1882,6 +1882,7 @@ article:last-child {
   justify-content: center;
   align-items: center;
   text-align: center;
+  list-style: none;
 }
 
 section.special > header,
@@ -2337,7 +2338,7 @@ header .icon.circled {
   margin: 0 0 2em 0;
   padding: 6em 0 6em 0;
   margin-bottom: 0;
-  padding-bottom: 50px;
+  /* padding-bottom: 50px; */
 }
 
 .wrapper.style2 {
@@ -3053,6 +3054,10 @@ body.homepage.is-preload #header:after {
 
   /* Button */
 
+  .prices {
+    margin-top: 30px;
+  }
+
   input[type="button"],
   input[type="submit"],
   input[type="reset"],
@@ -3253,6 +3258,7 @@ body.homepage.is-preload #header:after {
 
   .wrapper {
     padding: 3em 1em 3em 1em;
+    /* padding-bottom: 0; */
   }
 
   /* Header */
